@@ -1,1 +1,1 @@
-[Website link](https://www.quinntonharris.com/about)}
+[Website link](https://www.quinntonharris.com/about)
