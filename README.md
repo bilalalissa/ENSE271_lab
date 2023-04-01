@@ -1,10 +1,10 @@
 # ENSE 271 - lab
 
 > Winter 2023, lab instructor `Adam Tilson`
----
 
 
-## Related documents:
+
+**Related documents:**
 
 ### Lab 1:
 
