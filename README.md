@@ -16,6 +16,10 @@
 
 ### Lab 2:
 
+  - [Readme](https://github.com/bilalalissa/ENSE271_lab/blob/main/lab/lab_2/readme.md)
+  - [Figma-png](https://github.com/bilalalissa/ENSE271_lab/blob/main/lab/lab_2/271-lab2-Figma-BilalAlissa.png)
+  - [Figma-svg](https://github.com/bilalalissa/ENSE271_lab/blob/main/lab/lab_2/271-lab2-Figma-BilalAlissa.svg)
+  - [Inventory.xlsx](https://github.com/bilalalissa/ENSE271_lab/blob/main/lab/lab_2/asset-inventory.xlsx)
 
 ### Lab 3:
 
