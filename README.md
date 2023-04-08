@@ -23,12 +23,19 @@
 
 ### Lab 3:
 
+- Figma file - [.fig](https://github.com/bilalalissa/ENSE271_lab/blob/main/lab/lab_3/ENSE%20271%20Lab%203.fig)
+- Link file - [.txt](https://github.com/bilalalissa/ENSE271_lab/blob/main/lab/lab_3/link.txt)
+
 
 ### Lab 4:
 
+- Figma file - [.fig](https://github.com/bilalalissa/ENSE271_lab/blob/main/lab/lab_4/ENSE%20271%20BA%20Lab%204.fig)
 
 ### Lab 5:
 
+- No entry.
 
 ### Lab 6:
+- WordPress local backup file - [OneDrive_link](https://1drv.ms/u/s!AkB9j6SPvV35qKpj99Dyp1f3DYbpJQ?e=oZlWLa)
+
 
